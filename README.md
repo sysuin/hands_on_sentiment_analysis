@@ -1,2 +1,4 @@
 # hands_on_sentiment_analysis
 Contextual mining of text which identifies and extracts subjective information in source material, and helping a business to understand the social sentiment of their brand, product or service while monitoring online conversations
+
+Hands-on Sentiment Analysis: An application for helping businesses to understand the social sentiment of their brand, product or service
